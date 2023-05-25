@@ -1,3 +1,4 @@
+# Ridge Regression
 # Importing required libraries
 import numpy as np
 from sklearn.preprocessing import StandardScaler
